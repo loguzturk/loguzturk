@@ -27,15 +27,15 @@
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <a href="https://github.com/SENIN_GITHUB_ADIN_BURAYA">
+  <a href="https://github.com/loguzturk">
     <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_ADIN_BURAYA&show_icons=true&theme=tokyonight&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/SENIN_GITHUB_ADIN_BURAYA">
+  <a href="https://github.com/loguzturk">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENIN_GITHUB_ADIN_BURAYA&theme=tokyonight&hide_border=true&fire=0077B5&ring=0077B5" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/SENIN_GITHUB_ADIN_BURAYA">
+  <a href="https://github.com/loguzturk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_ADIN_BURAYA&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Top Languages" width="60%" />
   </a>
 </p>
